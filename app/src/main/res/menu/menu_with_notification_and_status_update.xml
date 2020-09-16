@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.andrew_butler_c196.MainActivity">
+    <item
+        android:id="@+id/Delete"
+        android:orderInCategory="100"
+        android:title="@string/delete"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/NotifyStart"
+        android:orderInCategory="101"
+        android:title="@string/notify_start" />
+    <item
+        android:id="@+id/NotifyEnd"
+        android:orderInCategory="102"
+        android:title="@string/notify_end" />
+    <item
+        android:id="@+id/UpdateStatus"
+        android:orderInCategory="103"
+        android:title="@string/status" />
+</menu>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="listItem">#69C7F1</color>
+    <color name="listItemInProgress">#3EC2FB</color>
+    <color name="listItemDropped">#C0C0C0</color>
+    <color name="listItemComplete">#f8d94d</color>
+
+    <color name="deleteButton">#C50A0A</color>
+</resources>
